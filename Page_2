@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpaceX</title>
+</head>
+<body>
+    <header>
+        <nav>
+        <a href="index.html"><img src="logo.png" alt="SpaceX Logo" /><a>
+        <a href ="index.html">| Main Page</a>
+        <a href="index2.html">| Hire Us </a>
+        </nav>
+        <hr>
+    </header>
+    <h2>Available Spaceships</h2>
+    <div>
+<br />
+        <h3>FALCON 9</h3>
+        <img src="falcon_9.jpg" />
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet fuga fugiat tempore hic rerum pariatur iure quas error! Esse sunt eveniet laborum vitae error repellat, nemo autem veritatis dicta accusamus?</p>
+    </div>
+    <hr>
+    <div>
+        <h3>FALCON HEAVY</h3>
+        <img src="falcon_heavy.jpg">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet debitis soluta recusandae sequi quia quisquam explicabo fugiat impedit voluptatem maiores. Magni error, assumenda et accusantium harum distinctio! Aut, autem magni.</p>
+    </div>
+</body>
+</html>
