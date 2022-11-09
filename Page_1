@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SpaceX</title>
+</head>
+<body>
+  <header>
+    <nav>
+    <a href="index.html"><img src="logo.png" alt="SpaceX Logo" /><a>
+    <a href ="index2.html">| Hire Us</a>
+    <a href="index1.html">| The Spaceships </a>
+    </nav>
+    <hr>
+</header>
+    <main>
+      <div>
+      <h2>Space Exploration Technoogies Corp.</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error assumenda soluta, nobis saepe a eum quae veritatis molestias impedit iusto optio harum quia excepturi aperiam, earum sed necessitatibus! Quidem, incidunt. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam repellat illo pariatur et culpa perferendis. Fuga, consectetur in ullam natus aperiam deleniti vel commodi facilis dolores consequatur voluptatum labore possimus!</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error assumenda soluta, nobis saepe a eum quae veritatis molestias impedit iusto optio harum quia excepturi aperiam, earum sed necessitatibus! Quidem, incidunt. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam repellat illo pariatur et culpa perferendis. Fuga, consectetur in ullam natus aperiam deleniti vel commodi facilis dolores consequatur voluptatum labore possimus!</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error assumenda soluta, nobis saepe a eum quae veritatis molestias impedit iusto optio harum quia excepturi aperiam, earum sed necessitatibus! Quidem, incidunt. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam repellat illo pariatur et culpa perferendis. Fuga, consectetur in ullam natus aperiam deleniti vel commodi facilis dolores consequatur voluptatum labore possimus!</p>
+      </div>
+      <div>
+      <h3>Our Services</h3>
+      <ul>
+        <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint ex architecto fugit dolores obcaecati praesentium doloremque est ipsum delectus. Voluptatibus soluta quia quam fugiat sint pariatur mollitia veritatis, enim optio!</li>
+        <li>Lorem</li>
+        <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur ullam soluta modi dolores nulla maxime voluptatem perspiciatis exercitationem, facere, deserunt vero quo minima corrupti ipsa obcaecati aperiam, ducimus cupiditate provident.</li>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias explicabo, cum quasi corporis blanditiis sequi inventore consequuntur saepe deleniti, tempore optio cupiditate non fugit dolor quibusdam maxime? Tempora, id ullam!</li>
+      </ul>
+      </div>
+      <div>
+      <h3>Prices</h3>
+      <table border="1">
+        <tr>
+          <th>Service</th>
+          <th>Value</th>
+        </tr>
+        <tr>
+          <td>Loremdsadsadsa</td>
+          <td>$450</td>
+        </tr>
+        <tr>
+          <td>lorem1dawjduiasnjdisnji</td>
+          <td>$122</td>
+        </tr>
+        <tr>
+          <td>lorem2dsasddadsad</td>
+          <td>$333</td>
+        </tr>
+        <tr>
+          <td>lorem3sdasdsdasds</td>
+          <td>$444</td>
+        </tr>
+      </table>
+      </div>
+    </main>
+</body>
+</html>
