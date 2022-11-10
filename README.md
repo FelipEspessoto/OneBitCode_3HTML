@@ -1,2 +1,2 @@
 # OneBitCode - Complete Site
-This is an exercise of OneBitCode course's
+This is the last exercise of HTML module's on OneBitCode course's
